@@ -1,13 +1,4 @@
 # VeriFIX Speaking Companion (Grounded, 2026-04-14)
-
-## Scope Lock (Only Requested Sources)
-- Final SOP: [SOP_my.md](SOP_my.md#L1)
-- Grounded SOP rewrite: [sop_grounded_revision_2026_04_12.md](sop_grounded_revision_2026_04_12.md#L1)
-- Grounded architecture: [.analysis/architecture/verifix_current_architecture_grounded_2026_04_11.md](.analysis/architecture/verifix_current_architeczture_grounded_2026_04_11.md#L1)
-- All-11 ablation markdown: [.analysis/all11_ablation_summary_2026_04_11.md](.analysis/all11_ablation_summary_2026_04_11.md#L1)
-- All-11 ablation json: [.analysis/all11_ablation_summary_2026_04_11.json](.analysis/all11_ablation_summary_2026_04_11.json#L1)
-- Project README anchor: [README.md](README.md#L1)
-
 ---
 
 ## TOPIC 1: Core Intuition + Why This Way (Keywords Only)
